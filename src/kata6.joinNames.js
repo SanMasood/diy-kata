@@ -9,7 +9,7 @@ const joinNames = namesObj => {
     let lastString = namesObj[namesObj.length-1].name;
 
 return (finalString+ " & " +lastString);
-
+//I wonder whether lines of code takes precedence over code readability 
     
 };
 
